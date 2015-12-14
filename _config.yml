@@ -1,2 +1,3 @@
 name: Glenn Earls  - IN Local Marketing
 	markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
